@@ -2,3 +2,7 @@
 
 if (true);
     console.log("yeet");
+
+    /*
+        MULTILINE COMMENT
+    */

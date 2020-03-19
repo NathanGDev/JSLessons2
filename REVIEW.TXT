@@ -1,0 +1,18 @@
+let variableName;
+variableName = 'test';
+
+Number          74
+BigInt          33n
+String          'quotes' "doubleybois" `ticks`
+Null            Null
+Undefined       Undefined
+Bool            true false
+Array           [ 2, "abc"]
+object          {name: "abc"}
+
+operators
+hoisting
+scope
+literals
+string methods
+conditionals !!!!!!!!!!!!!!!!!!!
