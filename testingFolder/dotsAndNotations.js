@@ -15,10 +15,12 @@ let justMercy = {
     ]   
 }
 
-justMercy.name = "Bryan Stevenson";
-justMercy.items = "Smart";
+console.log(justMercy.nameOfMovie);
+console.log(justMercy.runTime);
+console.log(justMercy.characters);
+console.log(justMercy.characters[0].name);
+console.log(justMercy.characters[0].items[0]);
 
 
-for (item in justMercy) {             // Calls the movie info
-    console.log(justMercy[item]);
-}
+
+
